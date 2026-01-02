@@ -2,3 +2,4 @@ added index.html
 added about.html
 added style.css
 added images 
+added script.js
